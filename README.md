@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Evgeniy Pavlenko
 
-<!--
-**PavlenkoEvgeniy/PavlenkoEvgeniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **PHP Web Developer**
+- 🛠️ Passionate about building robust web applications using **Symfony 6/7** and **PHP 8**
+- 🤝 I love collaborating on clean, maintainable, and scalable backend solutions
+
+## 🧰 Tech Stack
+
+- **Backend:** PHP 8, Symfony 6/7
+- **Databases:** MySQL, Redis
+- **Messaging/Queueing:** RabbitMQ
+- **Search:** ElasticSearch
+
+## 🚀 What I Do
+
+- Architecting and developing backend systems, APIs, and web services
+- Integrating message brokers and search engines to extend application capabilities
+- Writing clean, tested, and efficient code for demanding business requirements
+
+## 📈 GitHub Stats
+
+![PavlenkoEvgeniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlenkoEvgeniy&show_icons=true&theme=default)
+
+---
+
+Thanks for visiting my profile!
